@@ -5,15 +5,11 @@ Agent Fetch - knowledge monitoring and improvement
 
 Your website is your asset and you want it to improve in real-time to ensure your customers can transact and self-serve autonomously.  Quite often, product, marketing, knowledge management, and support teams are not aligned and move slowly.  
 
+Agent Fetch unlocks this by monitoring existing knowledge assets and tracking that Response Quality is maintained across all departments, teams, categories, and topics.  Agent Fetch is free to use on your website, and you can sign up here: <insert Lead Gen hook here for self-serve to paid tier>.  
 
-
-
-Agent Fetch unlocks this by monitoring existing knowledge assets and tracking that Response Quality is maintained across all departments, teams, categories, and topics. 
-Agent Fetch is free to use on your website, and you can sign up here: <insert Lead Gen hook here for self-serve to paid tier>.  
 
 
 Agent Echo - the thinking behind the thinking  
-
 Agent Echo compliments Agent Fetch by monitoring outcomes across interactions.  
 Calls, emails, and chat messages can be turned into dynamic experiences across text, voice, and video platforms via API.  
 Triggers initiate action and measure outcomes helping organizations automate agents across all departments, teams, categories, and topics. 
